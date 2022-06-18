@@ -1,4 +1,3 @@
-# ml-bootcamp
-CCSS Data Science Bootcamp Machine Learning Series Repository
+# CCSS Data Science Bootcamp Machine Learning Series Repository
 
 Coming soon!
